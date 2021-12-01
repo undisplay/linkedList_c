@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1638369656 source:/home/freedy/Projects/esih/StudentLinkedList/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1638300039 source:/home/freedy/Projects/esih/StudentLinkedList/linkedList.c
+	<stdio.h>
+	<stdlib.h>
+
+1638300039 /home/freedy/Projects/esih/StudentLinkedList/linkedList.c
+	<stdio.h>
+	<stdlib.h>
+
